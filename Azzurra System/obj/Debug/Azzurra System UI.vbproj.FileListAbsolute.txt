@@ -1,0 +1,254 @@
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+J:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+J:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+J:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+J:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+D:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+D:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+D:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+D:\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+J:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+J:\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+J:\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+D:\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+\\dfs-students\student$\Home-Folders\Year13\DominicJomaa\Profile.V2\Documents\CG4\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+\\dfs-students\student$\Home-Folders\Year13\DominicJomaa\Profile.V2\Documents\CG4\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+\\dfs-students\student$\Home-Folders\Year13\DominicJomaa\Profile.V2\Documents\CG4\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+\\dfs-students\student$\Home-Folders\Year13\DominicJomaa\Profile.V2\Documents\CG4\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+E:\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+E:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+E:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+E:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+D:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+J:\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+D:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.manifest
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.application
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe.manifest
+J:\not h\Azzurra System UI\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.application
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.manifest
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.application
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe.manifest
+J:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.application
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.manifest
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.application
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.pdb
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.xml
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Login.resources
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Main.resources
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Resources.resources
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe.manifest
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.application
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+D:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+E:\Azzurra System\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.config
+E:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe
+E:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.xml
+E:\Azzurra System\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.exe.manifest
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Azzurra System UI.application
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Label_Output.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.exe.manifest
+C:\Users\Dominic SSD\Desktop\Azzurra System UI\Azzurra System UI\obj\Debug\Azzurra System UI.application
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.config
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.manifest
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.application
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Label_Output.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Login.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Main.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Resources.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe.manifest
+C:\Users\Dominic SSD\Desktop\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.application
+D:\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.config
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.xml
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.pdb
+D:\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.manifest
+D:\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.application
+D:\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe
+D:\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.pdb
+D:\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.xml
+D:\Azzurra System\Azzurra System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Label_Output.resources
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Login.resources
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Main.resources
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Resources.resources
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe.manifest
+D:\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.application
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.config
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.manifest
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.application
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.pdb
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Label_Output.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Login.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Main.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Resources.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe.manifest
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.application
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.config
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.xml
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.pdb
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe.manifest
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.application
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.exe
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.pdb
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Azzurra System UI.xml
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbprojResolveAssemblyReference.cache
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Label_Output.resources
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Login.resources
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Main.resources
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Resources.resources
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra_System_UI.Splashscreen.resources
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.vbproj.GenerateResource.Cache
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe.manifest
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.application
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Azzurra System\Azzurra System\obj\Debug\Azzurra System UI.exe

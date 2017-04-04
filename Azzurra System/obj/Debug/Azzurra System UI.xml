@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AzzurraSystemUI
+</name>
+</assembly>
+<members>
+<member name="T:Azzurra_System_UI.Helpers">
+	<summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ Version: 1.0.4
+ Date Created: 17/06/2013
+ Date Changed: 26/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Azzurra_System_UI.FlatAlertBox.W">
+	<summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources._017868_blue_jelly_icon_symbols_shapes_shape_square_clear">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources.minmax">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources.minmax1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources.splashscreen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources.splashscreen1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Azzurra_System_UI.My.Resources.Resources.wallhaven_11769">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Azzurra_System_UI.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
